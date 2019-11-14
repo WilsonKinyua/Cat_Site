@@ -1,0 +1,41 @@
+body{
+    background: url(https://cdn.pixabay.com/photo/2016/03/09/09/43/cat-1245963_960_720.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lato';
+    color: white;
+}
+html{
+    width: 100%;
+    height: 100%;
+}
+#content{
+    text-align: center;
+    padding-top: 25%;
+    text-shadow: 0px 4px 3px rgb(54, 50, 50);
+}
+h1{
+    
+    font-weight: 800;
+    font-size: 5em;
+}
+hr{
+    width: 30%;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 2px solid rgba(51, 50, 50, 0.2);
+}
+.btn-default{
+    color: rgb(6, 9, 219);
+    background-color: chartreuse;
+}
+.navbar-default{
+    background:rgb(214, 203, 203);
+    
+}
+.navbar-default .navbar-nav>li>a {
+    color: rgb(233, 8, 214);
+}
+.navbar-default .navbar-brand {
+    color: rgb(158, 8, 8);
+}
+
